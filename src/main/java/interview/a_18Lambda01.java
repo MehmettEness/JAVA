@@ -19,10 +19,19 @@ public class a_18Lambda01 {
         filter() = filtrelemeye yarar
         map() = method degistirmek icin kullanırız
         distinct () =tekrarsiz elemanları alır.
-        reduec () = toplu olan string ifadeyi teke düsürmeye yarar.
+        reduce () = toplu olan string ifadeyi teke düsürmeye yarar.
         sorted() =alfabetik numeretik sıraya göre dizer
         get() = methodu ile bize Integer verdi
-        findFirst() = bize ilk elemanı verir.
+        findFirst() = bize ilk elemanı verir
+        RevoredOrder :Tersten sıralama yapar yani;büyükten küçüğe
+        Collect     :Topla demek.
+        Comparator  :Karşılaştırır ve sıralar(renkleri,uzunlukları)
+        RemoveIf    :Belli kurala uyuyorsa sil demek.
+        IntStream   :Tüm integerları stream formatında verir.Tam sayılardan oluşan aralık verir.
+        Range       :Başlangıç dahil, bitiş hariç
+        RangeClosed :Çoku teke redution yapmak. Seçim yapmak.
+        LongSream   :Uzunlukları verir.
+        GetAsInt    :Int gibi demek.
          */
 
 
