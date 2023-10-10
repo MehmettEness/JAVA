@@ -108,6 +108,12 @@ public class C03_SoruCevap {
         System.out.println("Kilonuz :" + kiloo + "\n" + "Boyunuz :" + boyy);
         System.out.println("Vücut ktle indeksiniz : " + (kiloo) / (boyy*boyy));
 
+        System.out.println();
+
+
+
+
+
     }
 
 }

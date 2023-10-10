@@ -1,7 +1,7 @@
 package day17oop;
 
 public class Animal {
-    //Overriding
+    //Overriding parentteki methodu alarak değiştirmeye deniliyor...
    public void  eat(){
        System.out.println("Animal eat");
    }

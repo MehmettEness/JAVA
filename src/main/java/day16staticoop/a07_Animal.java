@@ -34,6 +34,11 @@ public class a07_Animal {
       cunku default constructor "Object Class" icindedir.
      */
 
+
+
+
+
+
     public void eat(){
 
         System.out.println("animals eat");
