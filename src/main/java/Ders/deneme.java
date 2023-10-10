@@ -6,7 +6,7 @@ public class deneme {
     public static void main(String[] args) {
 
           /*
-        Kullanıcıdan kahve seçmesini isteyiniz.
+        Kullanıcıdan kahve seçmesini isteyiniz..
         Kahveler : Türk kahvesi, Fİltre Kahve , Espresso, White Mocha
         **Süt eklemek isteyip isytemediğini sorun
         **Şeker atmak isteyip istemediklerini sorun e şeker adet miktarını isteyiniz.
@@ -16,7 +16,7 @@ public class deneme {
         String hangiKahve;
         boolean dongu =false;
         do {
-            System.out.println("Kahvelerden hangisini seçmek isterseniz :");
+            System.out.println("Kahvelerden hangisini seçmek istersenizz :");
             System.out.println(" 1.Türk Kahvesi \n 2.Filtre Kahve \n 3.Espresso \n 4.White Mocha \n Yukarıda şekilde yazınız");
              hangiKahve = scan.nextLine();
             if (hangiKahve.equalsIgnoreCase("türk kahvesi") ||
