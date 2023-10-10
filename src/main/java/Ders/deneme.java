@@ -19,7 +19,7 @@ public class deneme {
             System.out.println("Kahvelerden hangisini seçmek istersenizz :");
             System.out.println(" 1.Türk Kahvesi \n 2.Filtre Kahve \n 3.Espresso \n 4.White Mocha \n Yukarıda şekilde yazınız");
              hangiKahve = scan.nextLine();
-            if (hangiKahve.equalsIgnoreCase("türk kahvesi") ||
+            if (hangiKahve.equalsIgnoreCase("türk kahvesii") ||
                     hangiKahve.equalsIgnoreCase("filtre kahve") ||
                     hangiKahve.equalsIgnoreCase("espresso") ||
                     hangiKahve.equalsIgnoreCase("white mocha")) {
