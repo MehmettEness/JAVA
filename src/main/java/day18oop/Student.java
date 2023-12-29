@@ -20,7 +20,8 @@ public class Student {
     Yani private datalar görünmez haldedir. Get methodu ile görünür olur.
     1) set methodları hep public olur
     2) set methodunun return type i hep void olur
-    3) set method parametre kullanmak zorundaddır. Yani set diyererk zaten verileni degistirmek istiyorsun
+    3)set method parametre kullanmak zorundaddır. Yani set diyererk zaten verileni degistirmek istiyorsunset method parametre kullanmak zorundaddır. Yani set diyererk zaten verileni degistirmek istiyorsun
+
 
     set method kullanarak var olan object üerinde degisiklikler yaparak o objecti sanarak
     objectmiş gibi kullanabiliriz.

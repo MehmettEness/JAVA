@@ -26,7 +26,7 @@ public class a07_Animal {
    4) Parent class objectleri child class dan method ve variable lari kullanamazlar
    5)Javada bir classın sadece bir tane parenti olabilir, coklu parent aMultple Inheritance derler
      tekli parent a Single Inheritance derler, Java Multiple Inhertince i desteklemez, single Inhertince kullanır
-   6) Apatman seklindeki Inhertince yapisina "Multilevel Inhertince" denir. ve javada "Multilevel Inhertince" destekler
+   6) Apartman seklindeki Inhertince yapisina "Multilevel Inhertince" denir. ve javada "Multilevel Inhertince" destekler
    7) Object class her classın parentidir. Java da object clas haric her classın parenti vardır
    8) Javada parent tan child a olan iliskilere HAS - A relationship denir.
       Javada chlid tan parent a olan iliskilere IS - A relationship denir.

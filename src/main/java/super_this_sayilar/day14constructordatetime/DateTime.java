@@ -1,7 +1,6 @@
-package day14constructordatetime;
+package super_this_sayilar.day14constructordatetime;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.Scanner;
 
 public class DateTime {
